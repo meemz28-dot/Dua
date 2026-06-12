@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- mihrab arch -->
+    <path android:fillColor="#F2EBD6"
+        android:pathData="M54,28 C44,28 36,36 36,48 L36,76 L72,76 L72,48 C72,36 64,28 54,28 Z"/>
+    <path android:strokeColor="#B08A2E" android:strokeWidth="2" android:fillColor="#00000000"
+        android:pathData="M54,32 C46,32 40,38 40,48 L40,72 L68,72 L68,48 C68,38 62,32 54,32 Z"/>
+    <!-- crescent -->
+    <path android:fillColor="#0E5C45"
+        android:pathData="M54,40 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0 Z"/>
+    <path android:fillColor="#F2EBD6"
+        android:pathData="M58,40 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 Z"/>
+</vector>
